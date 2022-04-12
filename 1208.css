@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h2 {color: #0000ff; font-size: 50px;}
+/* li {color: #ff00ff;} */
+thead {background-color: #bfbfbf;}
+
+.green {color: #00ff00;}
+.red {background-color: #ff0000; font-size: 30px; color: #ffffff;}
+.t45 {font-size: 45px;}
+
+#gray {color: #bfbfbf;}
+.t50 {font-size: 50px; color: #ff0000;}
+
+
+
+a:link {color: #ff00ff; text-decoration: none;}
+a:visited {color: #999999; text-decoration: overline;}
+a:hover {color: #0000ff; text-decoration: underline;}
+a:active {color: #ff0000; text-decoration: line-through;}
+
+
+
